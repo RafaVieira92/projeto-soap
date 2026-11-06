@@ -34,7 +34,7 @@
             <artifactId>wsdl4j</artifactId>
         </dependency>
 
-        <!-- Dependências da Atividade 2: WS-Security -->
+        
         <dependency>
             <groupId>org.springframework.ws</groupId>
             <artifactId>spring-ws-security</artifactId>
