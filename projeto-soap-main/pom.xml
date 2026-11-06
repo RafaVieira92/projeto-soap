@@ -23,7 +23,6 @@
     </properties>
 
     <dependencies>
-        <!-- Correção da Atividade 1: Adicionado o hífen correto no artifactId -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web-services</artifactId>
